@@ -1,0 +1,79 @@
+Analysis on "Unemployment in India.csv"
+
+Observations:-
+
+  1. The histogram shows that most unemployment rate values are concentrated between 3% and 15%.
+     Very few observations have unemployment rates above 30%.
+
+  2. States with relatively HIGH unemployment rates:
+       • Tripura
+       • Haryana
+       • Jharkhand
+       • Bihar
+       • Himachal Pradesh
+
+     States with comparatively LOW unemployment rates:
+       • Assam
+       • Gujarat
+       • Andhra Pradesh
+       • Karnataka
+       • Meghalaya
+
+     Different states have different economic structures, industries, and employment
+     opportunities, which leads to variations in unemployment levels.
+
+  3. An unemployment rate of nearly 18% during the Covid period indicates a substantial
+     rise in job losses and economic disruption.
+
+  4. The monthly trend graph shows a spike around April 2020, meaning the lockdown period
+     had the most severe impact on employment.
+
+  5. Top states with the highest average unemployment rates:
+       1.  Tripura
+       2.  Haryana
+       3.  Jharkhand
+       4.  Bihar
+       5.  Himachal Pradesh
+       6.  Delhi
+       7.  Jammu & Kashmir
+       8.  Chandigarh
+       9.  Rajasthan
+       10. Uttar Pradesh
+
+  6. The average unemployment rate spiked from approximately 9.5% before Covid to 17.8%
+     after Covid, demonstrating the economic impact of the pandemic.
+
+
+------------------------------------------------------------
+
+Analysis on "Unemployment_Rate_upto_11_2020.csv"
+
+Observations:-
+
+  1. The average unemployment rate across regions:
+     Northern India was the most affected region, while Western India showed comparatively
+     better employment stability during the Covid period.
+
+       Region          Average Unemployment Rate (%)
+       ---------       -----------------------------
+       North           15.89%
+       East            13.92%
+       Northeast       10.95%
+       South           10.45%
+       West             8.24%
+
+  2. Average number of employed people by region:
+     The East and West regions had the highest employment levels, while the Northeast
+     region had the lowest employment figures.
+
+       Region          Average Employment
+       ---------       ------------------
+       East            19.6 Million
+       West            18.6 Million
+       South           14.0 Million
+       North           13.1 Million
+       Northeast        3.6 Million
+
+  3. States with extreme unemployment rates:
+       • Highest unemployment rate → Haryana
+       • Lowest  unemployment rate → Meghalaya
